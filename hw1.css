@@ -58,9 +58,9 @@ nav a:hover {
 }
 
 .right { 
-width: 74%;
-display: inline-block;
-padding-left: 2%;
+        width: 74%;
+        display: inline-block;
+        padding-left: 2%;
 }
 
 .left img{
